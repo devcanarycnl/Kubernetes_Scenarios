@@ -1,5 +1,6 @@
 # Kubernetes_Scenarios
-
+TAKE THE LINUX2 AMI EC2 WITH 20 GB AND T2.MEDIUM
+   
    1  yum update -y
     2  yum install docker -y
     3  systemctl start docker

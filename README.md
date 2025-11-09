@@ -113,9 +113,9 @@ TAKE THE LINUX2 AMI EC2 WITH 20 GB AND T2.MEDIUM
   110  docker pull my-web-app:latest
   111  cd /opt/
   112  ls -lrta
-  113  git clone https://github.com/praveen1994dec/Kubernetes_Scenarios.git
+  113  git clone https://github.com/devacanrycnl/Kubernetes_Scenarios.git
   114  yum install git -y
-  115  git clone https://github.com/praveen1994dec/Kubernetes_Scenarios.git
+  115  git clone https://github.com/devcanarycnl/Kubernetes_Scenarios.git
   116  ls -lrta
   117  cd Docker/
   118  cd ..
